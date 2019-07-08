@@ -2,6 +2,7 @@
 	"name":"structCopy",
 	"type":"function",
 	"syntax":"structCopy(structure)",
+	"member":"struct.copy()",
 	"returns":"struct",
 	"related":["duplicate"],
 	"description":" Copies a structure. Copies top-level keys, values, and arrays\n in the structure by value; copies nested structures by\n reference.",

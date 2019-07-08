@@ -2,6 +2,7 @@
 	"name":"structInsert",
 	"type":"function",
 	"syntax":"structInsert(structure, key, value [, allowoverwrite])",
+	"member":"struct.insert(key, value [, allowoverwrite])",
 	"returns":"boolean",
 	"related":[],
 	"description":" Inserts a key-value pair into a structure.",

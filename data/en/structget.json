@@ -2,6 +2,7 @@
 	"name":"structGet",
 	"type":"function",
 	"syntax":"structGet(path)",
+	"member":"struct.get(path)",
 	"returns":"any",
 	"related":[],
 	"description":"Returns a value in a structure or a structure in the specified path.",

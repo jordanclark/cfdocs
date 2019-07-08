@@ -2,6 +2,7 @@
 	"name":"structEquals",
 	"type":"function",
 	"syntax":"structEquals(struct1,  struct2)",
+	"member":"struct1.equals(struct2)",
 	"returns":"boolean",
 	"related":[],
 	"description":"Performs a deep comparison of two structures to see if they represent the same values",

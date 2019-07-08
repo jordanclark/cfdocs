@@ -2,6 +2,7 @@
 	"name":"structSetMetadata",
 	"type":"function",
 	"syntax":"structSetMetadata(inputStruct, metaStruct)",
+	"member":"struct.setMetadata(metadata)",
 	"returns":"void",
 	"related":["arraySetMetadata","arrayGetMetadata","structGetMetadata"],
 	"member":"inputStruct.setMetadata(metaStruct)",

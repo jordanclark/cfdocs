@@ -2,7 +2,7 @@
 	"name":"structToSorted",
 	"type":"function",
 	"syntax":"structToSorted(structure, callback)\nstructToSorted(structure, sorttype, sortorder, localeSensitive)",
-	"member":"structure.toSorted(callback)",
+	"member":"struct.toSorted(callback)\nstruct.toSorted(sorttype, sortorder, localeSensitive)",
 	"returns": "struct",
 	"related":["structSort"],
 	"description":"Converts a struct to an ordered one",

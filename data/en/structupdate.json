@@ -2,6 +2,7 @@
 	"name":"structUpdate",
 	"type":"function",
 	"syntax":"structUpdate(structure, key, value)",
+	"member":"struct.update(key, value)",
 	"returns":"boolean",
 	"related":[],
 	"description":" Updates a key with a value.",

@@ -2,6 +2,7 @@
 	"name":"structDelete",
 	"type":"function",
 	"syntax":"structDelete(structure, key [, indicateNotExisting])",
+	"member":"struct.delete(key [, indicateNotExisting])",
 	"returns":"boolean",
 	"related":["structclear"],
 	"description":"Removes an element from a structure.",

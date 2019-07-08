@@ -2,6 +2,7 @@
 	"name":"structKeyExists",
 	"type":"function",
 	"syntax":"structKeyExists(structure, key)",
+	"member":"struct.keyExists(key)",
 	"returns":"boolean",
 	"related":["isDefined","isEmpty"],
 	"description":"Determines whether a specific key is present in a structure.",
